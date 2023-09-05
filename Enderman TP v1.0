@@ -1,0 +1,14 @@
+#Enderman Teleport Plugin (v1.0)
+#⬛⬛⬛
+#⬛      #Created by P3RTY (aka. zcx2)
+#⬛⬛    #Version: 1.0
+#⬛      #GitHub:  [zcx2]
+#⬛⬛⬛ 
+
+#When you edit the skript, please make
+#sure you know what  your doing!
+
+on click: #encrypted id
+	if player's held item is ender pearl: #no select (perma. 99ID)
+		teleport player to the targeted block #(Not: KR.199.999)
+		send "&8[&bET&8] &7You Have Been Teleported!" to player #block explode
