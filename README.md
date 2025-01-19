@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Snappy, also know as P3RTY and snappy_friendly
+- 👀 My current server is HallowPrison, averaging
+-     about 30 concurrent players with a whopping
+-     100 new joins every single day!
+- 💞️ I’m looking to collaborate on big projects with
+-     builders that can help me with my maps.
+- 📫 If you want to reach out to me, my discord is
+-     snappy_friendly and ill be responding!
+- 😄 My nicknames are Snap, P3, P and much more!
